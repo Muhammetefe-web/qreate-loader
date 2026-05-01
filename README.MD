@@ -8,7 +8,7 @@
 
 Bu GitHub deposu **sadece** qreateV2 Loader'ı güvenli bir şekilde bilgisayarınıza indirebilmeniz için tasarlanmıştır. Yazılımın kaynak kodları veya diğer dosyalar bu depoda yer almamaktadır.
 
-🌐 **Resmi Sitemiz:** [www.resmi.sitemiz.com](https://www.resmi.sitemiz.com)
+🌐 **Resmi Sitemiz:** [qreatecs2.vercel.app/](https://qreatecs2.vercel.app/)
 
 ---
 
@@ -26,4 +26,4 @@ Sitemizden buraya yönlendirildiyseniz, loader uygulamasını indirmek için aş
 
 ## ⚠️ Güvenlik Uyarısı
 
-Lütfen hesap güvenliğiniz için qreateV2 yazılımını **sadece** resmi sitemiz olan `[www.resmi.sitemiz.com](https://www.resmi.sitemiz.com)` üzerinden veya yönlendirildiğiniz bu resmi GitHub sayfasından indirdiğinize emin olun. Başka kişi veya sitelerden paylaşılan linklere itibar etmeyiniz.
+Lütfen hesap güvenliğiniz için qreateV2 yazılımını **sadece** resmi sitemiz olan `[qreatecs2.vercel.app/](https://qreatecs2.vercel.app/)` üzerinden veya yönlendirildiğiniz bu resmi GitHub sayfasından indirdiğinize emin olun. Başka kişi veya sitelerden paylaşılan linklere itibar etmeyiniz.
