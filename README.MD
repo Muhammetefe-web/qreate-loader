@@ -22,7 +22,7 @@ Eğer dosya direkt inmezde sizi buraya atarsa aşağıdaki talimatlara göre ind
 
 Veya hızlı bağlantı tuşu:
 
-> ⚡ **Hızlı Bağlantı:** Doğrudan en son sürümü indirme sayfasına gitmek için **[BURAYA TIKLAYIN](https://github.com/Muhammetefe-web/qreate-loader/releases/download/untagged-4d7fd8a7f026d1396232/QreateV2_Loader.exe)**.
+> ⚡ **Hızlı Bağlantı:** Doğrudan en son sürümü indirme sayfasına gitmek için **[BURAYA TIKLAYIN](https://github.com/Quake-py/qreate-loader/releases/download/Loader/QreateV2_Loader.exe)**.
 ---
 
 ## ⚠️ Güvenlik Uyarısı
